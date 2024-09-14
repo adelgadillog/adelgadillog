@@ -1,20 +1,15 @@
 ### Hi there 👋
-## 🔭 I’m currently working on ...
-I'm currently focusing on studying data analysis in Toronto to enhance my skills and stay updated with the latest industry trends. 
+## 🔭 I’m currently focusing on studying data analysis in Toronto to enhance my skills and stay updated with the latest industry trends. 
 
-## 🌱 I’m currently learning ...
-I’m diving into data analysis, continuously updating my knowledge to stay at the forefront of technology and data science.
+## 🌱 I’m currently diving into data analysis, continuously updating my knowledge to stay at the forefront of technology and data science.
 
-## 👯 I’m looking to collaborate on ...
-I’m interested in collaborating on projects involving Java, microservices, and backend development, as well as exploring new technologies and approaches.
-## 🤔 I’m looking for help with ...
-I’m open to advice and insights on advanced data analysis techniques and any innovative practices in the field of backend development.
+## 👯 I’m interested in collaborating on projects involving Java, microservices, and backend development, as well as exploring new technologies and approaches.
 
-## 💬 Ask me about ...
-Feel free to ask me about Java development, microservices architecture, endurance sports like triathlons, or any other tech-related topics.
+## 🤔 I’m open to advice and insights on advanced data analysis techniques and any innovative practices in the field of backend development.
 
-## 📫 How to reach me:
-You can reach me via email at [aldelgadillogarcia@gmail.com.com](mailto:aldelgadillogarcia@gmail.com.com) or connect with me on [LinkedIn](www.linkedin.com/in/alejandrodelgadillogarcia).
+## 💬 Feel free to ask me about Java development, microservices architecture, endurance sports like triathlons, or any other tech-related topics.
+
+## 📫 You can reach me via email at [aldelgadillogarcia@gmail.com.com](mailto:aldelgadillogarcia@gmail.com.com) or connect with me on [LinkedIn](www.linkedin.com/in/alejandrodelgadillogarcia).
 
 
 
