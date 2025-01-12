@@ -1,97 +1,24 @@
-### Hi there 👋
-## 🔭 I’m currently focusing on studying data analysis in Toronto to enhance my skills and stay updated with the latest industry trends. 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alejandro Delgadillo
+============================================================================================================================================
 
-## 🌱 I’m currently diving into data analysis, continuously updating my knowledge to stay at the forefront of technology and data science.
+Software Engineer | Java, Springboot
+------------------------------------
 
-## 👯 I’m interested in collaborating on projects involving Java, microservices, and backend development, as well as exploring new technologies and approaches.
+I am Alejandro, a professional software engineer who has been a part of several remote teams that have operated in different settings for about six years now. Many successful and impactful web applications have been delivered by me thanks to professional knowledge of Java, Spring Boot and several relational databases such as MS SQL Server, Oracle and MySQL, PostgreSQL. I would, however, like to highlight the fact that the performance tests I have conducted lead me to locate bottlenecks, which I optimized and resulted in the overall system performance boost. I also applied mutation testing which enabled me to get rid of redundant unit tests, hence reducing test time. In one of my latest projects I managed to move around 10 microservices, upgrade Java and DB versions, shift the environment from PCF to OpenShift Container Platform (OCP), which led to better scaling and performance. I also have experiences working with newer cloud technologies such Open Shift and AWS,and front end components built out with Angular and micro frontends. What comes more naturally to me is the design and implementation of microservices architectures, as well as the development of REST/SOAP services. From smoke test to mutation test and integration test and performance testing using Gatling, and JMeter are the tools that I have used. I look forward to being able to incorporate new technologies and for the time being, I assimilate the Node.js and Kotlin and Scala technologies. I enjoy working in fast paced environments
 
-## 🤔 I’m open to advice and insights on advanced data analysis techniques and any innovative practices in the field of backend development.
+* 🌍  I'm based in Toronto, ON, CAN - Manizales, Caldas, COL
+* ✉️  You can contact me at [aldelgadillogarcia@gmail.com](mailto:aldelgadillogarcia@gmail.com)
+* 🧠  I'm learning Go language, Improving my AWS Services knowledges
 
-## 💬 Feel free to ask me about Java development, microservices architecture, endurance sports like triathlons, or any other tech-related topics.
-
-## 📫 You can reach me via email at [aldelgadillogarcia@gmail.com.com](mailto:aldelgadillogarcia@gmail.com.com) or connect with me on [LinkedIn](www.linkedin.com/in/alejandrodelgadillogarcia).
+### Skills
 
 
+<p align="left">
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://github.com/adelgadillog/adelgadillog/blob/main/icons8-spring-boot-48.png" width="36" height="36" alt="Springboot" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
 
-## My Experience
 
-### **Software Engineer**
-**Company:** Discover Financial Services  
-**Location:** Remote, USA
+### Socials
 
-**What I Did:** At Discover, I tackled microservices migration, mentored junior devs, did some pair programming, and reviewed pull requests. I also joined technical meetings and focused on clean code and design patterns.
-
-**Key Tasks:**
-- Migrated and optimized microservices.
-- Helped junior devs grow.
-- Reviewed code and joined technical meetings.
-- Implemented clean code practices and design patterns.
-- Worked with an international team to enhance.
-- Designed and built backend microservices.
-- Worked with Spring Boot and Hibernate.
-- Created unit tests with JUnit.
-- Create smoke and integration tests.
-- Improve unit test applying mutation test with Pitest.
-
-**Tech Used:** Java 17, Spring Boot, and lots more
-
----
-
-### **Backend Developer**
-**Company:** Scotiabank Colpatria 
-**Location:** Remote, Colombia
-
-**What I Did:** I set up a microservices architecture, optimized response times, and managed resources using JMeter. Also worked on Java and Spring Boot version migrations. My remote team and I improved response times and boosted revenue.
-
-**Key Tasks:**
-- Built a microservices-based system.
-- Used JMeter to optimize response times.
-- Migrated Java versions (from 8 to 11) and Spring Boot (to 2.6.6).
-- Worked with a remote team to enhance performance.
-- Designed and built backend microservices.
-- Worked with Spring Boot and Hibernate.
-- Created unit tests with JUnit.
-- Played around with micro front end tools like Angular. 
-
-**Tech Used:** Java 8 and 11, Spring Boot 2.6.6, JMeter
-
----
-**Company:** Heinsohn  
-**Location:** Remote, Colombia
-
-**What I Did:** Maintained, developed, and supported a project, worked and listened to client requirements, applied good development practices, performed updates on Linux servers, and supported cost and time estimations.
-
-**Key Tasks:**
-- Maintained and developed project features.
-- Engaged with clients to gather and understand requirements.
-- Applied good development practices.
-- Performed updates on Linux servers.
-- Assisted in cost and time estimations for development.
-
-**Skills Used:**
-- Microsoft SQL Server
-- MySQL
-- Hibernate
-- GitHub, Git
-- Java
-- Oracle SQL Developer, Oracle Database
-
-## Skills
-
-- **Languages:** Java, Javascript
-- **Tools:** JMeter, Angular, Pitest, Gatling,  Spring Boot, Hibernate, JUnit
-- **Practices:** Architecture design, version migration, clean code, design patterns, unit testing.
-<!--
-**adelgadillog/adelgadillog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://www.github.com/adelgadillog" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alejandrodelgadillogarcia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
